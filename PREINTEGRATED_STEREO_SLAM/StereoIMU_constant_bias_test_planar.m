@@ -9,6 +9,7 @@ addpath(genpath(pwd))
 
 import gtsam.*
 
+
 %% Assumptions
 %  - For simplicity this example is in the camera's coordinate frame
 %  - X: right, Y: down, Z: forward
